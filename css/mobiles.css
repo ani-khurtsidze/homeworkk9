@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    .secon_section {
+      width: 95%;
+    }
+  
+    .secon_tittle{
+      font-size: 1.2em;
+    }
+  
+    .p1 {
+      font-size: 1em;
+    }
+  
+    .btn2 {
+      font-size: 1em;
+      padding: 8px 15px;
+    }
+  }
